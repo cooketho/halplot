@@ -31,6 +31,10 @@ make
 Next, change the following line of make.sh to the path to your progressive cactus installation:
 PGPATH=<path to your progressive cactus installation>
 
+Fetch the code for intervaltree:
+git submodule init
+git submodule update
+
 Then, to compile haltraverse:
 ./make.sh
 
