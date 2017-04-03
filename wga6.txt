@@ -1,0 +1,6 @@
+(((human, opossum),(budgie,anole)),medaka);
+*human HomSap.NT_008705.17.fa
+*opossum MonDom.NW_001582021.1.fa
+budgie MelUnd.NW_004848279.1.fa
+*anole AnoCar.NW_003338722.1.fa
+*medaka OryLat.chr20.fa
